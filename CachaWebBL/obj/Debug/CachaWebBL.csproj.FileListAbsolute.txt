@@ -1,0 +1,12 @@
+C:\Users\Esther\source\repos\CashApiWeb\CachaWebBL\bin\Debug\CachaWebBL.dll.config
+C:\Users\Esther\source\repos\CashApiWeb\CachaWebBL\bin\Debug\CachaWebBL.dll
+C:\Users\Esther\source\repos\CashApiWeb\CachaWebBL\bin\Debug\CachaWebBL.pdb
+C:\Users\Esther\source\repos\CashApiWeb\CachaWebBL\bin\Debug\EntityFramework.dll
+C:\Users\Esther\source\repos\CashApiWeb\CachaWebBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esther\source\repos\CashApiWeb\CachaWebBL\bin\Debug\EntityFramework.xml
+C:\Users\Esther\source\repos\CashApiWeb\CachaWebBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esther\source\repos\CashApiWeb\CachaWebBL\obj\Debug\CachaWebBL.csproj.AssemblyReference.cache
+C:\Users\Esther\source\repos\CashApiWeb\CachaWebBL\obj\Debug\CachaWebBL.csproj.CoreCompileInputs.cache
+C:\Users\Esther\source\repos\CashApiWeb\CachaWebBL\obj\Debug\CachaWebBL.csproj.CopyComplete
+C:\Users\Esther\source\repos\CashApiWeb\CachaWebBL\obj\Debug\CachaWebBL.dll
+C:\Users\Esther\source\repos\CashApiWeb\CachaWebBL\obj\Debug\CachaWebBL.pdb
